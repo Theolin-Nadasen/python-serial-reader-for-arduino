@@ -9,3 +9,5 @@ Method of reading arduino serial from python
   
   python3,
   pyserial library(https://pypi.org/project/pyserial/)
+
+![connections](https://github.com/P5YCH0x/python-serial-reader-for-arduino/blob/main/Screenshot%202021-03-19%20201303.png)
